@@ -55,14 +55,29 @@ Results-driven Full Stack Developer with **3+ years** of experience delivering p
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|:--------|:------------|:-----------|
-| **[Bazarify](https://play.google.com/store/apps/details?id=com.outsourceHeadche.bazarify)** | Full-featured eCommerce app with vendor management & order tracking | Flutter, Firebase |
-| **[Crequity](https://crequity.ai/)** | Real estate investment platform with advanced analytics | Flutter, Firebase |
-| **[MHI Platform](https://play.google.com/store/apps/details?id=com.outsourceheadache.pageantofheritage)** | Beauty pageant application for Miss Nepal contestants | Flutter, Firebase |
-| **[Resumind](https://cba-resume-analyze.vercel.app/)** | Resume analyzer & job application tracker | Next.js, Tailwind |
-| **[NexBrothers](https://nex-drab.vercel.app/)** | Enterprise software development company website | Next.js, Tailwind |
-| **[Portfolio](https://www.shivaharigajurel.com.np/)** | Personal portfolio showcasing my work | Next.js, Tailwind |
+**Mobile Apps**
+
+- [**Crequity**](https://crequity.ai/) — Real estate investment app with payment integrations (PayPal, Crypto, Khalti) and live market data feeds `Flutter, Riverpod`
+
+- [**FinNepal**](https://finnepal.com/) — Share market app with real-time market data for Nepali investors `Flutter, Riverpod`
+
+- [**Bazarify**](https://play.google.com/store/apps/details?id=com.outsourceHeadche.bazarify) — Complete eCommerce app with vendor accounts, product listings, Google Maps for delivery & secure payments `Flutter, Provider`
+
+- [**MHI Platform**](https://play.google.com/store/apps/details?id=com.outsourceheadache.pageantofheritage) — Beauty contest app for aspiring models to apply for Miss Nepal `Flutter`
+
+- [**Hamra Kisan**](https://github.com/cbagajurel) — Farming app connecting farmers with buyers, integrated Google Maps & eSewa payments `Flutter, Provider, GetX`
+
+- [**N.I.E. Nepal**](https://nienepal.com/) — Education platform with video courses, quizzes, and progress tracking `Flutter, Provider, GetX`
+
+**Web Apps**
+
+- [**Resumind**](https://cba-resume-analyze.vercel.app/) — Resume analyzer & job application tracker `Next.js, Tailwind`
+
+- [**NexBrothers**](https://nex-drab.vercel.app/) — Enterprise software development company website `Next.js, Tailwind`
+
+- [**Equitoria Global**](https://equitoria-global.web.app/) — Global investment platform (In Progress) `React, Firebase`
+
+- [**Portfolio**](https://www.shivaharigajurel.com.np/) — Personal portfolio showcasing my work `Next.js, Tailwind`
 
 ---
 
