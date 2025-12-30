@@ -71,11 +71,11 @@ Results-driven Full Stack Developer with **3+ years** of experience delivering p
 
 **Web Apps**
 
-- [**Resumind**](https://cba-resume-analyze.vercel.app/) — Resume analyzer & job application tracker `Next.js, Tailwind, Puter.js`
+- [**Resumind**](https://cba-resume-analyze.vercel.app/) — Resume analyzer & job application tracker `React Router, Tailwind, Puter.js`
 
 - [**NexBrothers**](https://nex-drab.vercel.app/) — Enterprise software development company website `Next.js, Tailwind`
 
-- [**Equitoria Global**](https://equitoria-global.web.app/) — Global investment platform (In Progress) `React, Firebase, Tailwind, Better Auth`
+- [**Equitoria Global**](https://equitoria-global.web.app/) — Global investment platform (In Progress) `React Router, Firebase, Tailwind, Better Auth`
 
 - [**Portfolio**](https://www.shivaharigajurel.com.np/) — Personal portfolio showcasing my work `Next.js, Tailwind`
 
