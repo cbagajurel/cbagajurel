@@ -59,7 +59,7 @@ Results-driven Full Stack Developer with **3+ years** of experience delivering p
 
 - [**Crequity**](https://crequity.ai/) — Real estate investment app with payment integrations (PayPal, Crypto, Khalti) and live market data feeds `Flutter, Riverpod`
 
-- [**FinNepal**](https://finnepal.com/) — Share market app with real-time market data for Nepali investors `Flutter, Riverpod`
+- [**StockYan**](https://play.google.com/store/apps/details?id=app.golden.stockyan&pli=1) — Share market app with real-time market data for Nepali investors `Flutter, Riverpod`
 
 - [**Bazarify**](https://play.google.com/store/apps/details?id=com.outsourceHeadche.bazarify) — Complete eCommerce app with vendor accounts, product listings, Google Maps for delivery & secure payments `Flutter, Provider`
 
